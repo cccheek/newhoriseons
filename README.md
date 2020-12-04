@@ -1,3 +1,6 @@
 # newhoriseons
 
-The first thing I changed was the title to read "Welcome to Horiseon!" because it's friendlier than "webpage".
+1. The first thing I changed was the title to read "Welcome to Horiseon!" because it's friendlier than "webpage".
+
+2. I spaced out the h1, h2 and h3 tags to make them easier to read.
+3. I added alt tags to photos
