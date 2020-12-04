@@ -11,3 +11,7 @@
 5. I grouped different commands for the same section that had been split up.
 
 6. I changed the footer div to a footer tag.
+
+7. I wrapped the Search Engine Optimization paragraph.
+
+8. I deleted unnessecary img closing tag.
