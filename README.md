@@ -14,4 +14,4 @@
 
 7. I wrapped the Search Engine Optimization paragraph.
 
-8. I deleted unnessecary img closing tag.
+8. I deleted unnecessary img closing tag.
