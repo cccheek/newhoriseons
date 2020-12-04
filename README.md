@@ -8,4 +8,4 @@
 
 4. Spaced out individual sections for better readability.
 
-5. I grouped different commands for the same section that were split.
+5. I grouped different commands for the same section that had been split up.
