@@ -9,3 +9,5 @@
 4. Spaced out individual sections for better readability.
 
 5. I grouped different commands for the same section that had been split up.
+
+6. I changed the footer div to a footer tag.
