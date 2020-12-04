@@ -7,3 +7,5 @@
 3. I added alt tags to photos.
 
 4. Spaced out individual sections for better readability.
+
+5. I grouped different commands for the same section that were split.
